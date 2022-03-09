@@ -93,6 +93,7 @@ html {
     background-color: transparent;
     color: white;
     font-weight: bold;
+    cursor: pointer;
 }
 
 .detail__coin-chart-button.active {
